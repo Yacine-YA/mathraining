@@ -1,3 +1,5 @@
+
+
 Mathraining
 ============
 [![Build Status](https://secure.travis-ci.org/blegat/mathraining.png)](http://travis-ci.org/blegat/mathraining)
@@ -5,6 +7,8 @@ Mathraining
 
 Description
 -----------
+
+[![Run on Repl.it](https://repl.it/badge/github/blegat/mathraining)](https://repl.it/github/blegat/mathraining)
 Code source de [Mathraining](http://www.mathraining.be),
 le site interactif d'entraînement aux Olympiades Internationales de Mathématiques.
 
